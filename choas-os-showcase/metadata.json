@@ -1,0 +1,8 @@
+{
+  "name": "Choas OS Showcase",
+  "description": "An interactive landing page and desktop simulation for Choas OS, a futuristic, secure, and fast operating system powered by the Entropy Kernel.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
